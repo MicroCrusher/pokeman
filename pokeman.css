@@ -1,0 +1,62 @@
+<style>
+
+
+h1 {
+  text-align: center;
+ color: white;
+ background-color: purple;
+  border-radius: 30 px;
+}
+
+table.center {
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+  }
+.bulbasaur {
+  background-color: skyblue;
+  height: 10px;
+  width: 10px;
+}
+.charmander {
+  background-color: skyblue;
+  height: 20px;
+  width: 20px;
+}
+.squirtle {
+  background-color: skyblue;
+  height: 20px;
+  width: 20px;
+}
+.charm {
+ 
+}
+.clrs {
+
+}
+
+body {
+  background-color: pink;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
